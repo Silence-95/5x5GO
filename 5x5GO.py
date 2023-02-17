@@ -62,5 +62,6 @@ def fiveGO():
                 total_list.remove(number_shape)
                 total_list.insert(0, 'longL{number}')
     print(total_list)
+    input("")
 fiveGO()
 # just use 3, 3, 3, 3, 3, 2, 2, 2, 2, 2
